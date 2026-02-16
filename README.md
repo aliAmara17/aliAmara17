@@ -6,7 +6,7 @@ I enjoy building and solving real‑world problems with code, learning new techn
 
 - 📍 Based in Israel  
 - 📫 Contact:  
-  - LinkedIn: https://www.linkedin.com/in/ali-amara-236457387/  
+  - LinkedIn: https://www.linkedin.com/in/ali-amara 
   - Email: ali11amara17@gmail.com
 
 ---
